@@ -24,7 +24,7 @@ let	handle = e => {
 });
 ```
 
-###2、并行处理
+### 2、并行处理
 
 ```javascript
 (async () => {
